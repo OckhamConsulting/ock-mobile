@@ -1,21 +1,21 @@
 {
-  "name": "ark-mobile",
-  "version": "1.4.1",
+  "name": "ockham-mobile",
+  "version": "0.0.1",
   "author": {
-    "name": "Lucio Rubens",
-    "email": "luciorubeens@gmail.com",
-    "url": "https://github.com/luciorubeens"
+    "name": "OCKHAM CONSUTLING INSTITUTE",
+    "email": "ceo@ockham.consulting",
+    "url": "https://github.com/OckhamConsulting"
   },
   "contributors": [
     {
-      "name": "Alex Barnsley",
-      "email": "alex@ark.io",
-      "url": "https://github.com/alexbarnsley"
+      "name": "Luc TALARICO",
+      "email": "ceo@ockham.consulting",
+      "url": "https://github.com/gitockham"
     }
   ],
-  "homepage": "https://github.com/ArkEcosystem/mobile-wallet#readme",
+  "homepage": "https://github.com/OckhamConsulting/mobile-wallet#readme",
   "bugs": {
-    "url": "https://github.com/ArkEcosystem/mobile-wallet/issues"
+    "url": "https://github.com/OckhamConsulting/mobile-wallet/issues"
   },
   "license": "MIT",
   "private": true,
